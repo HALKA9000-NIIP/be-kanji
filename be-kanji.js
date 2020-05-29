@@ -1,4 +1,4 @@
-//import "./ids_renderer_ss"
+import "./lib/ids_renderer/main";
 let nest = {
   head: {
     lg: "邊",

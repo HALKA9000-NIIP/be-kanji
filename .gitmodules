@@ -1,0 +1,3 @@
+[submodule "ids_renderer"]
+	path = lib/ids_renderer
+	url = https://github.com/hedalu244/ids_renderer.git
