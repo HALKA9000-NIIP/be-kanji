@@ -1,0 +1,29 @@
+#heading{
+	width: 100%;
+    background-color: rgb(240, 202, 202);
+    color: #17547a;
+    font-size: 2.3em;
+	position: absolute;
+	top: 0px;
+    height: 1.6em;
+    padding-top: 0.6em;
+    padding-left: 2.4em;
+	z-index: 20;
+}
+.fotter{
+	width: 100%;
+    background-color: rgb(240, 202, 202);
+    color: #17547a;
+    font-size: 0.7em;
+	position: absolute;
+	bottom: 0px;
+	height: 30px;
+	z-index: 20;
+}
+.fotter #copyright{
+	position: absolute;
+	top: 5px;
+	left: 90px;
+	text-align: center;
+	z-index: 30;
+}
